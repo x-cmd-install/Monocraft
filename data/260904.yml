@@ -7,7 +7,7 @@ about:
   head: e498bf7
   archived: false
   latestVersion: v4.2.1
-  collectedAt: 2026-09-04T19:20:35Z
+  collectedAt: 2026-09-04T21:15:32Z
 timeline:
   created: 2022-08-08
   lastCommit: 2026-05-27
@@ -81,5 +81,58 @@ total:
   openIssue: 34
   commit: 224
 ---
+path: /home/runner/.x-repo/github.com/IdreesInc/Monocraft
+collectedAt: 2026-09-04T21:15:37Z
+loc:
+  Json:
+    code: 18821
+    comments: 0
+    blanks: 7
+    files: 4
+  Python:
+    code: 1059
+    comments: 190
+    blanks: 182
+    files: 5
+  Css:
+    code: 116
+    comments: 0
+    blanks: 23
+    files: 1
+  Sh:
+    code: 35
+    comments: 1
+    blanks: 11
+    files: 1
+  JavaScript:
+    code: 28
+    comments: 2
+    blanks: 1
+    files: 2
+  Toml:
+    code: 4
+    comments: 0
+    blanks: 1
+    files: 1
+  Yaml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 101
+    blanks: 51
+    files: 3
+  Text:
+    code: 0
+    comments: 35182
+    blanks: 7
+    files: 2
+total:
+  code: 20073
+  comments: 35476
+  blanks: 283
+  files: 20
 ---
 
