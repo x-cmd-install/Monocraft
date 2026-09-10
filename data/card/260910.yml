@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.2.1"
   latestRelease: "v4.2.1"
   latestPrerelease: "v3.0-beta"
-  collectedAt: 2026-09-10T06:27:27Z
+  collectedAt: 2026-09-10T18:17:12Z
 timeline:
   created: 2022-08-08
   lastCommit: 2026-05-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-12-06
   lastPrerelease: 2023-03-22
 popularity:
-  star: 11331
+  star: 11332
   watcher: 33
   fork: 168
   release: 16
@@ -84,7 +84,7 @@ total:
   commit: 224
 ---
 path: /home/runner/.x-repo/github.com/IdreesInc/Monocraft
-collectedAt: 2026-09-10T06:27:34Z
+collectedAt: 2026-09-10T18:17:25Z
 loc:
   Json:
     code: 18821
