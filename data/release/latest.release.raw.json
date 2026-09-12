@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 32076972,
       "digest": "sha256:67f88ff9e7c6560f6cf60fb062fd353a72f62dc2654462950c65b63ed53d9754",
-      "download_count": 21908,
+      "download_count": 21928,
       "created_at": "2025-12-06T18:00:12Z",
       "updated_at": "2025-12-06T18:00:19Z",
       "browser_download_url": "https://github.com/IdreesInc/Monocraft/releases/download/v4.2.1/Monocraft-nerd-fonts-patched.ttc"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2492088,
       "digest": "sha256:93ee79ba62b7d0a653dfd90d5c519f949e3ad64ec483046b417f2cc6943831d0",
-      "download_count": 2303,
+      "download_count": 2305,
       "created_at": "2025-12-06T18:00:19Z",
       "updated_at": "2025-12-06T18:00:20Z",
       "browser_download_url": "https://github.com/IdreesInc/Monocraft/releases/download/v4.2.1/Monocraft-no-ligatures.ttc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 716033,
       "digest": "sha256:e623b72f1021062ad0156cc41f54b108e70bd35e2b295127475bb572d8ade61d",
-      "download_count": 4101,
+      "download_count": 4104,
       "created_at": "2025-12-06T18:00:20Z",
       "updated_at": "2025-12-06T18:00:20Z",
       "browser_download_url": "https://github.com/IdreesInc/Monocraft/releases/download/v4.2.1/Monocraft-otf.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1236744,
       "digest": "sha256:897faffbef8cc27fadd0d5aa51872ab5f908e22a89bb8fa5b191366025d503e0",
-      "download_count": 14958,
+      "download_count": 14984,
       "created_at": "2025-12-06T18:00:20Z",
       "updated_at": "2025-12-06T18:00:21Z",
       "browser_download_url": "https://github.com/IdreesInc/Monocraft/releases/download/v4.2.1/Monocraft-ttf.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5909252,
       "digest": "sha256:0ea1aea12f03d552a469fc017f19ea927b53bf9d21e60a41c5c476c3faf3c7f9",
-      "download_count": 18001,
+      "download_count": 18023,
       "created_at": "2025-12-06T18:00:21Z",
       "updated_at": "2025-12-06T18:00:23Z",
       "browser_download_url": "https://github.com/IdreesInc/Monocraft/releases/download/v4.2.1/Monocraft.ttc"
