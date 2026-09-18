@@ -38,7 +38,7 @@ Total: **20,066** lines of code across **13** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,366 · **Forks**: 168 · **Open issues**: 112 · **Contributors**: 12
+- **Stars**: 11,367 · **Forks**: 168 · **Open issues**: 112 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **20,066** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-21 | 0 | 0 | 1 | 0 | 6 | 1 |
-| 360d | 2025-09-22 | 1 | 0 | 1 | 4 | 11 | 21 |
-| last720d | 2024-09-27 | 2 | 4 | 2 | 6 | 15 | 41 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-22 | 0 | 0 | 1 | 0 | 6 | 1 |
+| 360d | 2025-09-23 | 1 | 0 | 1 | 4 | 11 | 21 |
+| last720d | 2024-09-28 | 2 | 4 | 2 | 6 | 15 | 41 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for Monocraft lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:44:45Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:34:05Z._
